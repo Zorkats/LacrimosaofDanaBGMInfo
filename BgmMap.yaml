@@ -1,7 +1,14 @@
+# This file maps background music file paths to their respective titles.
+# Format: <file_path>: "title|disc|track"
+
 bgm\y8_op.ogg: "Lacrimosa of Dana -Opening Ver.-"
 bgm\y8_b006.ogg: "Theos-De-Endrogram"
 bgm\y8_e008.ogg: "Obscure Sentence"
 bgm\y8_e018.ogg: "Maia"
-bgm\y8_title.ogg: "TEST"
+bgm\y8_title.ogg: "Lacrimosa of Dana|3|3"
 bgm\y8_end.ogg: "Everlasting Transeunt"
 bgm\y8_e003.ogg: "Being Slow on the Waves|1|2"
+bgm\y8_b001.ogg: "Crimson Fighter|1|19"
+bgm\y8_b002.ogg: "Smash Up!|1|7"
+bgm\y8_b003.ogg: "Deadly Temptation|1|4"
+bgm\y8_b004.ogg: "Volitional Decision|3|8"
